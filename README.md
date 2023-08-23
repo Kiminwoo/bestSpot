@@ -1,1 +1,1 @@
-# searchBestSpot
+# bestSpot
